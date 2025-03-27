@@ -1,2 +1,12 @@
-hello
-yooooooooooooooooooo
+git init
+git remote remove origin
+git add .
+nano push.txt
+git add .
+git commit -m "adding push.txt"
+git remote add origin <URL>
+git push origin main
+git branch main
+git checkout main
+git push origin main
+git pull origin main
